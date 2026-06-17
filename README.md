@@ -39,7 +39,7 @@ probabilities computed each year.
 
 ## Data requirements
 
-This repository does not include any data. To run the model, create a `data/`
+This repository does not include any data. For data privacy reasons, this must be requested by contacting the researchers. To run the model, create a `data/`
 folder alongside the scripts with the following files:
 
 | Path | Format | Description |
